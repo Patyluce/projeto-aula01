@@ -1,3 +1,14 @@
 # Repositório criado para aula do Start-Recife
 
+E como podemos abrir esse terminal?
 
+Vamos criar uma pasta com o nome Projetos
+Depois, vamos clicar com o botão direito em cima da pasta
+Vamos procurar o ícone do Git Bash Here, e clique nele, então será aberto um terminal.
+
+4. No terminal, vamos digitar git --version, será exibida a versão do git na sua máquina.
+5. Após verificar a versão, vamos configurar seu nome e email no Git.
+
+a. No terminal, vamos escrever o comando git config --global user.name "SEU NOME", e assim o nome de usuário será configurado.
+b. Ainda no terminal, vamos escrever o comando git config --global user.email "SEU EMAIL DO GITHUB
+Com isso feito, o Git está configurado e pronto para ser utilizado em sua máquina.
